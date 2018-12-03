@@ -5,7 +5,7 @@ This portfolio is a compilation of notebooks which I created for exploration of 
 ### Machine Learning Projects
 [Binary Classification to Predict Metal or Rock](Binary_Classification.ipynb)
 
-Tech used: Python, Scikit-learn, Pandas, Standardization, Pipepile
+Tech used: Python, Scikit-learn, Pandas, Standardization, Pipeline
 
 [Multi_Classification to Predict Iris Species](Multi_Classification.ipynb)
 
