@@ -14,10 +14,10 @@ Tech used: Python, Scikit-learn, Pandas
 
 
 ### Neural Network Projects
-[Handwritten Digit Recognition] (Handwritten_Digit_Recognition.ipynb)
+[Handwritten Digit Recognition](Handwritten_Digit_Recognition.ipynb)
 
 Tech used: Python, Scikit-learn, Keras, CNN
 
-[Object Recognition] (Object_Recognition.ipynb)
+[Object Recognition](Object_Recognition.ipynb)
 
 Tech used: Python, Scikit-learn, Keras, CNN
