@@ -11,6 +11,8 @@ Tech used: Python, Scikit-learn, Pandas, Standardization, Pipepile
 
 Tech used: Python, Scikit-learn, Pandas
 
+
+
 ### Neural Network Projects
 [Handwritten Digit Recognition] (Handwritten_Digit_Recognition.ipynb)
 
