@@ -7,7 +7,7 @@ This portfolio is a compilation of notebooks which I created for exploration of 
 
 Tech used: Python, Scikit-learn, Pandas, Standardization, Pipeline
 
-<a href="https://github.com/srivankur/ankursri/blob/master/Multi_Classification.ipynb">Multi_Classification to Predict Iris Species</a>
+<a href="https://github.com/srivankur/ankursri/blob/master/Multi_Classification.ipynb">Multi Classification to Predict Iris Species</a>
 
 Tech used: Python, Scikit-learn, Pandas
 
