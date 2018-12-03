@@ -7,17 +7,17 @@ This portfolio is a compilation of notebooks which I created for exploration of 
 
 Tech used: Python, Scikit-learn, Pandas, Standardization, Pipeline
 
-[Multi_Classification to Predict Iris Species](Multi_Classification.ipynb)
+<a href="https://github.com/srivankur/ankursri/blob/master/Multi_Classification.ipynb">Multi_Classification to Predict Iris Species</a>
 
 Tech used: Python, Scikit-learn, Pandas
 
 
 
 ### Neural Network Projects
-[Handwritten Digit Recognition](Handwritten_Digit_Recognition.ipynb)
+<a href="https://github.com/srivankur/ankursri/blob/master/Handwritten_Digit_Recognition.ipynb">Handwritten Digit Recognition</a>
 
 Tech used: Python, Scikit-learn, Keras, CNN
 
-[Object Recognition](Object_Recognition.ipynb)
+<a href="https://github.com/srivankur/ankursri/blob/master/Object_Recognition.ipynb">Object Recognition</a>
 
 Tech used: Python, Scikit-learn, Keras, CNN
