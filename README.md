@@ -21,3 +21,7 @@ Tech used: Python, Scikit-learn, Keras, CNN
 <a href="https://github.com/srivankur/ankursri/blob/master/Object_Recognition.ipynb">Object Recognition</a>
 
 Tech used: Python, Scikit-learn, Keras, CNN
+
+
+### OpenCV Projects
+<a href="https://github.com/srivankur/ankursri/tree/master/OpenCV">Capture frame using webcam</a>
