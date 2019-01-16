@@ -1,5 +1,5 @@
 
-I have developed a LSTM model for tex generation. This model has achieved the loss of 0.0192 which is pretty good.
+I have developed a LSTM model for text generation. This model has achieved the loss of 0.0192 which is pretty good.
 
 In first notebook I have developed a model and saved the best weights.
 
