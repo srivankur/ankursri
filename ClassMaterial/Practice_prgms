@@ -1,0 +1,19 @@
+
+1. Write a program in which you ask from user to enter any day of week.
+   If it's Monday to Friday print a message Weekday
+   If it's Saturday or Sunday print Weekend.
+
+  Use Chained If-else.
+
+ 
+2. Write a program in which you have a list of even numbers 2,4,8,20,10
+   You ask from user to enter any even number less than 20
+   Check if the input is already into the list; if the input number is already in the list 
+   print 'It exists in the list'
+   otherwise append that number into the list
+
+  Hint: Create a list containing above numbers
+        Use if else
+        Use append method of list.
+
+   
